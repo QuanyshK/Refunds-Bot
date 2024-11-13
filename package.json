@@ -2,14 +2,11 @@
   "name": "refunds-bot",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "start": "node bot.py"
-  },
+"scripts": {
+  "start": "node index.js"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "node-telegram-bot-api": "^0.66.0"
-  }
+  "description": ""
 }
